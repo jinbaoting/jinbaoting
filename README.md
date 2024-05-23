@@ -2,7 +2,11 @@
 
 ![新金宝logo](https://github.com/jinbaoting/jinbaoting/assets/170626223/277521e6-42eb-49b5-9c9f-17cea60b16dc)
 
+## 网页在线客服咨询
+请点击链接发起咨询：
+[11c.in](http://11c.in)
 
+---
 
 - 👋 Hi, I’m @jinbaoting
 - 👀 I’m interested in ...
